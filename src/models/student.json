@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "John",
+    "teacher": 1,
+    "school": "2CE606CD-02C5-FC95-2998-DF709389F5EE",
+    "createdAt": "2020-06-04",
+    "updatedAt": "2020-05-15"
+  },
+  {
+    "id": 2,
+    "name": "Wanda",
+    "teacher": 1,
+    "school": "2CE606CD-02C5-FC95-2998-DF709389F5EE",
+    "createdAt": "2020-06-04",
+    "updatedAt": "2020-05-15"
+  },
+  {
+    "id": 3,
+    "name": "Emily",
+    "teacher": 2,
+    "school": "2CE606CD-02C5-FC95-2998-DF709389F5EE",
+    "createdAt": "2020-06-04",
+    "updatedAt": "2020-05-15"
+  }
+]

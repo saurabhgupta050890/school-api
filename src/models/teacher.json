@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Warren",
+    "qualification": "MSC",
+    "school": "2CE606CD-02C5-FC95-2998-DF709389F5EE",
+    "createdAt": "2020-06-04",
+    "updatedAt": "2020-05-15",
+    "students": [1, 2]
+  },
+  {
+    "id": 2,
+    "name": "Musk",
+    "qualification": "MSC",
+    "school": "2CE606CD-02C5-FC95-2998-DF709389F5EE",
+    "createdAt": "2020-06-04",
+    "updatedAt": "2020-05-15",
+    "students": [3]
+  }
+]

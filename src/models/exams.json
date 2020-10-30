@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Exam 1",
+    "date": "2020-8-23",
+    "student": 1,
+    "marks": {
+      "max": 100,
+      "obtained": 80
+    },
+    "result": "PASS"
+  },
+  {
+    "name": "Exam 1",
+    "date": "2020-8-23",
+    "student": 2,
+    "marks": {
+      "max": 100,
+      "obtained": 65
+    },
+    "result": "PASS"
+  },
+  {
+    "name": "Exam 1",
+    "date": "2020-8-23",
+    "student": 3,
+    "marks": {
+      "max": 100,
+      "obtained": 39
+    },
+    "result": "FAIL"
+  },
+  {
+    "name": "Exam 1",
+    "date": "2020-9-7",
+    "student": 3,
+    "marks": {
+      "max": 100,
+      "obtained": 80
+    },
+    "result": "PASS"
+  },
+  {
+    "name": "Exam 2",
+    "date": "2020-9-18",
+    "student": 1,
+    "marks": {
+      "max": 100,
+      "obtained": 0
+    },
+    "result": "LATE"
+  }
+]
